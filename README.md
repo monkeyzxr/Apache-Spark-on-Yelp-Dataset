@@ -5,6 +5,9 @@ Created by Xiangru Zhou
 
 Scala is used to solve these questions!
 
+I used 2 ways to solve Q1 and Q2. 
+
+One method is to use the Spark SQL, another method is to use the key-value pairs.
 *******************************
 Dataset Description:
 
